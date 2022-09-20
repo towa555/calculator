@@ -1,0 +1,22 @@
+.button-wrap{
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    background-color: #61b861d8;
+    color: #fff;
+    flex: 1;
+    margin: 4px;
+    border-radius: 25px;
+    transition: 0.5s;
+    border-bottom: 3px solid #4a5a48;
+    border-left: 2px solid #4a5a48;
+}
+
+.button-wrap:hover{
+    background-color: white;
+    color: #000;
+    transition: 0.5s;
+}
+
